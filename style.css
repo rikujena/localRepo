@@ -1,3 +1,18 @@
-P{
-    color: brown;
+p {
+    size: 400000px;
+  color: brown;
+}
+
+.box {
+  width: 97.5%;
+  height: 600px;
+  background-color: cornflowerblue;
+  border: 12px solid #0675e3;
+  padding: 2px;
+  margin: 20px auto;
+  border-radius: 10px;
+  color: rgb(33, 31, 31);
+  font-family: Arial, sans-serif;
+  text-align: center;
+ 
 }
