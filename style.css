@@ -1,3 +1,4 @@
+
 P{
     color: brown;
 }
@@ -6,6 +7,18 @@ P{
   height: 600px;
   background-color: rgb(200, 237, 100);
   border: 12px solid #e30606;
+
+p {
+    size: 400000px;
+  color: brown;
+}
+
+.box {
+  width: 97.5%;
+  height: 600px;
+  background-color: cornflowerblue;
+  border: 12px solid #0675e3;
+
   padding: 2px;
   margin: 20px auto;
   border-radius: 10px;
